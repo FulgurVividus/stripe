@@ -11,3 +11,4 @@
 7. Prisma ORM
 8. MongoDB
 9. Kinde (Authentication/Authorization)
+10. ShadcnUI
