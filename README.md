@@ -10,3 +10,4 @@
 6. Stripe
 7. Prisma ORM
 8. MongoDB
+9. Kinde (Authentication/Authorization)
